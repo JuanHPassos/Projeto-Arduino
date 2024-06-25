@@ -41,6 +41,6 @@ Projeto que envolve tanto Hardware quanto Software.
 - Motor de Passo: Um motor de passos funciona convertendo pulsos elétricos digitais em movimentos mecânicos incrementais. Ele é composto por um rotor (imã permanente) e um estator com várias bobinas eletromagnéticas. Quando as bobinas são energizadas em uma sequência específica, elas criam campos magnéticos que atraem ou repelem o rotor, causando sua rotação em pequenos ângulos discretos, chamados de passos. Controladores de motor de passos gerenciam a sequência e a velocidade dos pulsos, permitindo movimentos precisos e repetíveis, essenciais em aplicações como impressoras 3D e máquinas CNC. Nesse projeto, apenas usamos desse giro para exibir produtos.
 
 ## Protótipo do Circuito - Tinkercad
-
+Acesse a simulação pelo [link](https://www.tinkercad.com/things/5funghXNhok-circuito-do-mostruario/editel?sharecode=T02-t_l6jLxX6jppouhYzIt5L1Z4sjFjY2yA1R_EreI)
 ![Protótipo](Imagens_proj/Motor.jpg)
 
