@@ -31,16 +31,16 @@ Projeto que envolve tanto Hardware quanto Software.
 | **Total**  |                              | **R$113,25** |
 
 ## Funcionamento dos Componentes
--Placa Arduino: São placas de circuito impresso que contêm um microcontrolador, interfaces de entrada/saída (I/O) e pinos de conexão para facilitar a interação com componentes eletrônicos externos. Nesse contexto, o Arduino faz a interligação do circuito com o motor de passo.
--Cabo USB 2.0: faz a conexão entre o computador com código programado em Arduino e a placa Arduino Uno.
--Protoboard: placa de ensaio projetada para facilitar a montagem e teste de circuitos eletrônicos. Neste caso,em conjunto com os jumpers,ela auxilia a conectar eletricamente o circuito.
--Jumpers: referem-se a fios ou conectores utilizados para estabelecer conexões entre componentes eletrônicos, pinos ou pontos específicos em um circuito. Neste caso, foram utilizados jumpers do tipo macho/macho e macho/fêmea, de forma a interligar o Arduino, a protoboard, e ao motor de passo por meio do Drive ULN2003.
--Chave Táctil: Uma chave táctil é um tipo de interruptor que detecta toque ou pressão suave, usado para enviar sinais elétricos em dispositivos eletrônicos, como controles remotos e painéis de controle. Ela permite uma interface de usuário simples e compacta para ativar ou desativar funções. Nessa caso, ela liga desliga o motor.
+- Placa Arduino: São placas de circuito impresso que contêm um microcontrolador, interfaces de entrada/saída (I/O) e pinos de conexão para facilitar a interação com componentes eletrônicos externos. Nesse contexto, o Arduino faz a interligação do circuito com o motor de passo.
+- Cabo USB 2.0: faz a conexão entre o computador com código programado em Arduino e a placa Arduino Uno.
+- Protoboard: placa de ensaio projetada para facilitar a montagem e teste de circuitos eletrônicos. Neste caso,em conjunto com os jumpers,ela auxilia a conectar eletricamente o circuito.
+- Jumpers: referem-se a fios ou conectores utilizados para estabelecer conexões entre componentes eletrônicos, pinos ou pontos específicos em um circuito. Neste caso, foram utilizados jumpers do tipo macho/macho e macho/fêmea, de forma a interligar o Arduino, a protoboard, e ao motor de passo por meio do Drive ULN2003.
+- Chave Táctil: Uma chave táctil é um tipo de interruptor que detecta toque ou pressão suave, usado para enviar sinais elétricos em dispositivos eletrônicos, como controles remotos e painéis de controle. Ela permite uma interface de usuário simples e compacta para ativar ou desativar funções. Nessa caso, ela liga desliga o motor.
 - LED Verde: Representa que o motor está ligado e girando.
 - LED Vermelho: Representa que o motor está desligado.
 - Motor de Passo: Um motor de passos funciona convertendo pulsos elétricos digitais em movimentos mecânicos incrementais. Ele é composto por um rotor (imã permanente) e um estator com várias bobinas eletromagnéticas. Quando as bobinas são energizadas em uma sequência específica, elas criam campos magnéticos que atraem ou repelem o rotor, causando sua rotação em pequenos ângulos discretos, chamados de passos. Controladores de motor de passos gerenciam a sequência e a velocidade dos pulsos, permitindo movimentos precisos e repetíveis, essenciais em aplicações como impressoras 3D e máquinas CNC. Nesse projeto, apenas usamos desse giro para exibir produtos.
 
 ## Protótipo do Circuito - Tinkercad
 
-![imagem](vouporainda)
+![Protótipo](Imagens_proj/Motor.jpg)
 
