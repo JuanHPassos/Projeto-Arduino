@@ -38,5 +38,5 @@ Projeto que envolve tanto Hardware quanto Software.
 
 ## Protótipo do Circuito - Tinkercad
 Acesse a simulação pelo [link](https://www.tinkercad.com/things/gkktJQ80Vfb-jogo-arduino)
-![Protótipo](Imagens_proj/Motor.jpg)
+![Game](Imagens_proj/tinkercad_game.PNG)
 
