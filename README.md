@@ -14,7 +14,7 @@ Projeto que envolve tanto Hardware quanto Software.
 - **Turma:** BCC-B / 2024
 
 ## Projeto
-![Imagem_do_proj_final](semimagemporhora.png)
+![Imagem_do_proj_final](Imagens_proj/Jogo-arduino.jpg)
 
 ## Lista de Componentes
 
